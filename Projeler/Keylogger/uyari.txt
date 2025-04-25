@@ -1,0 +1,4 @@
+!Programı çalıştırmadan önce dikkatle okuyunuz!
+
+-keyloggerı durdurmak için "ESC" tuşuna basınız.
+-Tüm kayıtlar log.txt dosyasına kaydedilir.
